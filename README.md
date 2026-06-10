@@ -7,6 +7,7 @@ I'm Swarada Deshpande , passionate and dedicated Second year Computer Science En
 
 # 🏆 Achievements: 
 
+- 2nd prize (1st Runner-up) at IntelliTech Hackathon: Engineering Smart Solutions hosted *Internationally* by *Universidad Nacional del Altiplano de Puno, Peru* securing *$500 USD* cash prize.<br>
 - 1st place at National level MedTech Hackathon: Nexus Aescode organized by Bharati Vidyapeeth (DU) in collaboration with KCDH IIT Bombay.<br>
 - 2nd prize (1st runner-up) at National level Hackathon: OFFGRID 1.0 organized by D.Y.Patil International University, Pune.<br>
 - Secured Rank 2 in Code debugging competition by IEEE SB BIT.
