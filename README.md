@@ -1,9 +1,9 @@
 ## Hi there, I'm Swarada 👋
 
 # 💫 About Me: 
-I'm Swarada Deshpande , passionate and dedicated Second year Computer Science Engineering student with a genuine interest in technology.
+I'm Swarada Deshpande , passionate and dedicated Third year Computer Science Engineering student with a genuine interest in technology.
 ---
-📖 Focus: Currently deep-diving into Data, Artificial Intelligence and Machine Learning.<br>🎓 Education: Second Year B.Tech in Computer Engineering at Marathwada Mitra Mandal's College Of Engineering, Pune.<br>💻 Experience: Completed Internship in Data Analytics.<br>🎨 Creative: Video Editing and Design work for college-level flagship events.
+📖 Focus: Currently deep-diving into Data, Artificial Intelligence and Machine Learning.<br>🎓 Education: Second Year B.Tech in Computer Engineering at Marathwada Mitra Mandal's College Of Engineering, Pune.<br>💻 Experience: Intern @ Infosys Springboard. Completed Internship in Data Analytics.<br>🎨 Creative: Video Editing and Design work for college-level flagship events.
 
 # 🏆 Achievements: 
 
